@@ -1,0 +1,15 @@
+
+/* Define el estilo para el mensaje de éxito */
+.result {
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #dff0d8;
+    padding: 10px; /* Agrega espacio interno alrededor del mensaje */
+}
+
+#cobrar {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }

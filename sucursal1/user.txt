@@ -1,0 +1,23 @@
+<?php
+if (isset($_SESSION['nombre_usuario'])) {
+    echo '<div class="nav-icon position-relative text-dark"><i class="fa fa-user-circle"></i> ' . $_SESSION['nombre_usuario'] . '</div>';
+    echo '<a class="nav-icon position-relative text-decoration-none" href="logout.php">';
+}?> 
+
+
+    <style>
+/* Estilo para los botones con el color personalizado */
+.btn-custom {
+    background-color: #F85BFF;
+    color: #fff; /* Cambia el color del texto a blanco */
+}
+
+/* Estilo para los botones personalizados cuando están enfocados o activos */
+.btn-custom:focus,
+.btn-custom:active {
+    background-color: #F85BFF;
+    color: #fff;
+}
+</style>
+
+/* Si quiero usar rosa solo cambio esto: <button type="submit" class="btn btn-custom">Registrar Pedido</button> */

@@ -1,0 +1,22 @@
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background-color: #007bff;
+    color: white;
+}
+.card-title {
+    margin-bottom: 0;
+}
+.btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+.btn:hover {
+    background-color: #0056b3;
+}
+#ticketContent {
+    white-space: pre-wrap;
+}

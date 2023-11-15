@@ -1,0 +1,30 @@
+
+    /* Estilo para el encabezado h2 */
+    #feromonasSection h2 {
+        font-size: 24px;
+        color: #333;
+    }
+
+    /* Estilo para el input de cantidad de feromonas */
+    #feromonasInput {
+        width: 200px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    /* Estilo para el botón de agregar feromonas */
+    #agregarFeromonasBtn {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /* Estilo para el botón de agregar feromonas al pasar el mouse por encima */
+    #agregarFeromonasBtn:hover {
+        background-color: #0056b3;
+    }

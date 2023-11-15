@@ -1,0 +1,44 @@
+/* Estilos generales de la sección */
+section {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Estilos para el encabezado h2 */
+section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Estilos para el campo de búsqueda */
+#searchFeromonas {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilos para la lista de productos ul y sus elementos li */
+#feromonasList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#feromonasList li {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #f0f0f0;
+}
+
+/* Estilos para los botones dentro de los elementos li */
+#feromonasList li button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+
+

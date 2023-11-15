@@ -1,0 +1,24 @@
+/* Estilo para el título 'Fijador' */
+#fijadorSection h2 {
+    font-size: 24px; /* Tamaño de fuente del título */
+    color: #333; /* Color de texto negro */
+}
+
+/* Estilo para el input de cantidad de fijador */
+#fijadorInput {
+    /*width: 100px; /* Ancho del input */
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde con color gris */
+    border-radius: 5px; /* Bordes redondeados */
+    margin-right: 10px; /* Espacio a la derecha del input */
+}
+
+/* Estilo para el botón 'Agregar Fijador' */
+#agregarFijadorBtn {
+    padding: 10px; /* Espaciado interno */
+    background-color: #007bff; /* Color de fondo azul */
+    color: #fff; /* Color de texto blanco */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}

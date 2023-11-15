@@ -1,0 +1,39 @@
+        /* Estilos para el campo de búsqueda de productos de tendencias */
+        #searchTendencias {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        
+        /* Estilos para la lista de productos de tendencias */
+        #tendenciasList {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        #tendenciasList li {
+            margin-bottom: 10px;
+        }
+        
+        /* Estilos para el campo de búsqueda de productos extra */
+        #searchExtra {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        
+        /* Estilos para la lista de productos extra */
+        #extraList {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        #extraList li {
+            margin-bottom: 10px;
+        }
+        
+        
